@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22abe567-283f-42d6-9734-29732a3da268" name="Changes" comment="restart-2" />
+    <list default="true" id="22abe567-283f-42d6-9734-29732a3da268" name="Changes" comment="git 1 trial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jhu_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jhu_data.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +101,7 @@
     <MESSAGE value="restart" />
     <MESSAGE value="restart-1" />
     <MESSAGE value="restart-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="restart-2" />
+    <MESSAGE value="git 1 trial" />
+    <option name="LAST_COMMIT_MESSAGE" value="git 1 trial" />
   </component>
 </project>
