@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22abe567-283f-42d6-9734-29732a3da268" name="Changes" comment="git 1 trial">
+    <list default="true" id="22abe567-283f-42d6-9734-29732a3da268" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getdata1.py" beforeDir="false" afterPath="$PROJECT_DIR$/getdata1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jhu_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jhu_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process&amp;analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/process&amp;analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="Jupyter Notebook" />
       </list>
     </option>
@@ -31,14 +36,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -102,6 +107,8 @@
     <MESSAGE value="restart-1" />
     <MESSAGE value="restart-2" />
     <MESSAGE value="git 1 trial" />
-    <option name="LAST_COMMIT_MESSAGE" value="git 1 trial" />
+    <MESSAGE value="covid data gathering functions" />
+    <MESSAGE value="compare with jing and renew code (especial shanghai data part)" />
+    <option name="LAST_COMMIT_MESSAGE" value="compare with jing and renew code (especial shanghai data part)" />
   </component>
 </project>

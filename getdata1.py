@@ -16,7 +16,7 @@ plt.rcParams['axes.unicode_minus'] = False #用来正常显示负号
 import colorama
 from colorama import Fore, Style
 
-def GET_csse_covid_19_time_series():
+def GET_csse_covid_19_time_series_my():
     print('reading [time series] data ......')
     time_series_covid19_confirmed_US = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv')
     time_series_covid19_confirmed_global = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv')
@@ -29,7 +29,7 @@ def GET_csse_covid_19_time_series():
 # user pass in variable 'region'
 # if region = 'global', gather global daily reports
 # if region = 'us', gather united states daily reports
-def GET_csse_covid_19_daily_reports(region):
+def GET_csse_covid_19_daily_reports_my(region):
     '''
    get the latest and previous date cases
     :return:
@@ -60,7 +60,7 @@ def GET_csse_covid_19_daily_reports(region):
     return latest_data, prev_data
 
 
-def GET_shanghai_data():
+def GET_shanghai_data_my():
     '''Gather Shanghai COVID Data (recent 10 days)'''
     print('reading [shanghai] data ......')
     data_name = 'ts_shanghai_covid'
