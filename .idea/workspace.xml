@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22abe567-283f-42d6-9734-29732a3da268" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getdata1.py" beforeDir="false" afterPath="$PROJECT_DIR$/getdata1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jhu_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jhu_data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/process&amp;analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/process&amp;analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,6 +105,7 @@
     <MESSAGE value="git 1 trial" />
     <MESSAGE value="covid data gathering functions" />
     <MESSAGE value="compare with jing and renew code (especial shanghai data part)" />
-    <option name="LAST_COMMIT_MESSAGE" value="compare with jing and renew code (especial shanghai data part)" />
+    <MESSAGE value="update data processing functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="update data processing functions" />
   </component>
 </project>
