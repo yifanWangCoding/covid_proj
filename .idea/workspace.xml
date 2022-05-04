@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22abe567-283f-42d6-9734-29732a3da268" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TS_basis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model1/keras_metadata.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model1/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model1/variables/variables.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model1/variables/variables.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/process&amp;analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/process&amp;analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_shanghai.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jhu_data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/process&amp;analysis.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -37,11 +46,12 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Downloads/whale-data-analysis-project-master/COVID-19_DA_PROJECT/Phase3" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/covid_project" />
       <recent name="$PROJECT_DIR$/.ipynb_checkpoints" />
@@ -108,6 +118,7 @@
     <MESSAGE value="update data processing functions" />
     <MESSAGE value="add function: negative increase case" />
     <MESSAGE value="3 plots update" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 plots update" />
+    <MESSAGE value="plots details update" />
+    <option name="LAST_COMMIT_MESSAGE" value="plots details update" />
   </component>
 </project>
